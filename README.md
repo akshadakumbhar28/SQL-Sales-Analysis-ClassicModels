@@ -31,10 +31,7 @@ This project demonstrates SQL skills by analyzing sales data from the ClassicMod
 - Identified top customers by sales.
 - Analyzed monthly sales trends.
 - Found highest-selling products.
-
-- 
 - Calculated revenue by product line.
 - Generated business insights using SQL.
 
-## 👩‍💻 Author
-**Akshada Kumbhar**
+
